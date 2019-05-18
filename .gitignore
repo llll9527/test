@@ -1,0 +1,9 @@
+*.o
+*.txt
+*.log
+*.a
+*.lib
+*.so
+file
+file1
+file2
